@@ -50,5 +50,5 @@ I tried to make the mobile version. Since the height was fixed at 100vh, it was 
 
 ## Acknowledgments
 
-[Akshay Rajeev NAmbiar](https://github.com/akshayrajeevnambiar)
+[Akshay Rajeev Nambiar](https://github.com/akshayrajeevnambiar)
 
