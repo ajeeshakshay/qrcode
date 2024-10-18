@@ -11,7 +11,7 @@ body {
     background-color: hsl(212, 45%, 89%);
     display: grid;
     place-items: center;
-    height: 100vh;
+    height:100vh;
     /* background-color : hsl(218, 44%, 22%);
     background-color : hsl(216, 15%, 48%); */
 }
@@ -48,6 +48,7 @@ p {
 
 .container {
     display: flex;
+    vertical-align: middle;
     background-color: white;
     width: 250px;
     margin: auto; 
@@ -56,4 +57,10 @@ p {
     align-items: center;
     border-radius: 10px;
     box-shadow: 0 3px 15px rgb(0 0 0 / 0.2);
+}
+
+@media screen and (max-width: 375px) {
+    body {
+        height: 50vh;
+    }
 }
